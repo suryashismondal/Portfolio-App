@@ -31,7 +31,7 @@ const Contactme = () => {
                 </div>
             </div>
             <div className='mb-4 my-2'>
-                <h1 className='font-semibold '>Your Messege*</h1>
+                <h1 className='font-semibold '>Your Messeges*</h1>
                 <input className='bg-slate-100 px-3 py-2 border-2 rounded-md border-gray-300 w-[35vw] h-[10vh]' type='text'placeholder='your messege here'/>
             </div>
             <div className='flex mb-3 space-x-4'> 
